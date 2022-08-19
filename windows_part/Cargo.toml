@@ -1,0 +1,10 @@
+[package]
+name = "get_otp"
+version = "0.1.0"
+authors = ["Goutham Tamilselvan"]
+edition = "2018"
+
+[dependencies]
+bindings = { path = "bindings" }
+mqtt-protocol = "0.11"
+windows = "0.10"

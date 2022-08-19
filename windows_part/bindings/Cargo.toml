@@ -1,0 +1,11 @@
+[package]
+name = "bindings"
+version = "0.1.0"
+authors = ["GTAMILS1 <gtamils1@ford.com>"]
+edition = "2018"
+
+[dependencies]
+windows = "0.10"
+
+[build-dependencies]
+windows = "0.10"
